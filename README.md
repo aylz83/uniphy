@@ -1,7 +1,7 @@
 # Uniphy
 A simple web based tool to convert [Uniprot](http://uniprot.org) IDs into [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) IDs and vice versa, written in Rust.
 
-While working on my undergraduate level 3 project I found myself needing a method of converting a bunch of uniprot IDs to Phytozome transcripts a number of times, leading to the creation of this simple tool. I'm also aware it is terribly named.
+While working on my undergraduate level 3 project I found myself needing a method of converting a bunch of uniprot IDs to Phytozome transcripts a number of times, leading to the creation of this simple tool.
 
 Creates a simple webservice at localhost on port 3000. Releases available for Linux and Windows. There are no MacOS binaries but it should compile and run on MacOS.
 
