@@ -297,8 +297,8 @@ fn get_form(_req: &mut Request) -> IronResult<Response>
 			Use at your own risk.</strong><br/><br/>
 			Expectations:<br/>
 			<ul>
-  				<li>A downloaded Uniprot proteome of species X in FASTA format named 'uniprot_db.fasta'</li>
-  				<li>A downloaded Phytozome proteome of species X in FASTA format named 'phytozome_db.fasta'</li>
+  				<li>A downloaded Uniprot proteome of species X in FASTA format named 'uniprot_db.fasta' in the same folder as the executable</li>
+  				<li>A downloaded Phytozome proteome of species X in FASTA format named 'phytozome_db.fasta' in the same folder as the executable</li>
   				<li>A list of identifiers you wish to convert, seperated by spaces, new lines or commas in the text field below</li>
 			</ul>
 			Identifiers:<br/>
