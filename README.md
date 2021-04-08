@@ -7,10 +7,8 @@ Creates a simple webservice at localhost on port 3000. Releases available for Li
 
 It probably does not scale well, so do not expect lots of users using the service at once. It is also certainly not the best way to design such a tool, and the code is a little 'hackish' in places but it gets the job done.
 
-**DISCLAIMER: No warranty is provided with this tool.**
-
-**I will not be held responsible for any damage or loss of work.**
-
+**DISCLAIMER: No warranty is provided with this tool.**  
+**I will not be held responsible for any damage or loss of work.**  
 **Use at your own risk.**
 
 Expectations:
