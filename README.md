@@ -11,10 +11,11 @@ It probably does not scale well, so do not expect lots of users using the servic
 **I will not be held responsible for any damage or loss of work.**  
 **Use at your own risk.**
 
-Expectations:
-* A downloaded Uniprot proteome from [https://www.uniprot.org/proteomes](https://www.uniprot.org/proteomes/) of species X in FASTA format named 'uniprot_db.fasta' in the same folder as the executable
-* A downloaded Phytozome proteome from [https://phytozome.jgi.doe.gov/pz/portal.html] (https://phytozome.jgi.doe.gov/pz/portal.html) (requires an account) of species X in FASTA format named 'phytozome_db.fasta' in the same folder as the executable
-* A list of identifiers you wish to convert, seperated by spaces, new lines or commas in the text field
+## Instructions:
+1. Download a Uniprot proteome from [https://www.uniprot.org/proteomes](https://www.uniprot.org/proteomes/) of species X in FASTA format named 'uniprot_db.fasta' in the same folder as the uniphy executable.
+2. Downloaded a Phytozome proteome from [https://phytozome.jgi.doe.gov/pz/portal.html](https://phytozome.jgi.doe.gov/pz/portal.html) (requires an account) of species X in FASTA format named 'phytozome_db.fasta' in the same folder as the uniphy executable.
+3. Run the executable by double clicking on the executable on windows or by entering "./uniphy" without the quotes from the command line in Linux or MacOS.
+4. Navigate to http://localhost:3000 if a new browser window does not automatically start.
 
 ## TODO:
 * Don't hardcode the port, make this user configurable
