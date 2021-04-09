@@ -12,8 +12,8 @@ It probably does not scale well, so do not expect lots of users using the servic
 **Use at your own risk.**
 
 Expectations:
-* A downloaded Uniprot proteome of species X in FASTA format named 'uniprot_db.fasta' in the same folder as the executable
-* A downloaded Phytozome proteome of species X in FASTA format named 'phytozome_db.fasta' in the same folder as the executable
+* A downloaded Uniprot proteome from [https://www.uniprot.org/proteomes](https://www.uniprot.org/proteomes/) of species X in FASTA format named 'uniprot_db.fasta' in the same folder as the executable
+* A downloaded Phytozome proteome from [https://phytozome.jgi.doe.gov/pz/portal.html] (https://phytozome.jgi.doe.gov/pz/portal.html) (requires an account) of species X in FASTA format named 'phytozome_db.fasta' in the same folder as the executable
 * A list of identifiers you wish to convert, seperated by spaces, new lines or commas in the text field
 
 ## TODO:
